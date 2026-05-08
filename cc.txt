@@ -1,0 +1,4 @@
+Cloud computing provies access to various services through internet
+Services like Iaas, Paas , Saas
+It implements pay as you go model
+cloud computing is used for virtualisation
